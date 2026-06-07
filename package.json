@@ -16,7 +16,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "generate": "plop"
+    "generate": "plop",
+    "watch": "jest --watch"
   },
   "devDependencies": {
     "case-anything": "^2.1.13",
